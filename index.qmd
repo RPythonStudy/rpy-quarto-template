@@ -1,0 +1,9 @@
+---
+title: "Quarto Website Template"
+author: BenKorea
+description: "Quarto Website 구축 시 필요한 기능을 Template로 구현"
+date: "2025-07-26"
+date-modified: last-modified
+---
+
+READDME.md를 참고하세요...

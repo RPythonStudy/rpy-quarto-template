@@ -1,0 +1,4 @@
+# config/config.yml
+
+default:
+  log_level: "INFO"  # DEBUG, INFO, WARN, ERROR
