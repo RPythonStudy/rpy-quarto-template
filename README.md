@@ -29,13 +29,13 @@
 > {PROJECT_ROOT}/src 폴더를 기준폴더로 설정하여 import path 설정을 자동화하는 기능이 구현되어 있습니다.   
 > 보다 구체적인 설명은 아래의 링크를 참고하시길 바랍니다.
 - 로컬참조: [Python-Import-Path-Reference](wiki/Python-Import-Path-Reference(파이썬-임포트-경로-설정).md)
-- 원격참조: [Python Import Path Reference]((https://github.com/RPythonStudy/rpy-quarto-template/wiki/Python-Import-Path-Reference(파이썬-임포트-경로-설정)))
+- 원격참조: [Python Import Path Reference](https://github.com/RPythonStudy/rpy-quarto-template/wiki/Python-Import-Path-Reference(파이썬-임포트-경로-설정))
 
 
 ## Python 가상환경
 > 파이썬을 사용하는 프로젝트의 경우 가상환경을 생성한다고 전제하였습니다.   
 > Requirements.txt로 패키지를 설치하시면 됩니다.   
-> 제공되는 자동화 스크립트 또는 `make`를 이용하셔도 됩니다. 
+> 가상화환경과 관련된 자동화 기능이 구현되어 있습니다. 
 
 
 ## Logging in R
