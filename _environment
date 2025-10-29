@@ -10,12 +10,12 @@
 
 PROJECT_NAME=rpy-quarto-template
 
-PROJECT_ROOT=C:\\Users\\Ben\\projects\\rpy-quarto-template
+PROJECT_ROOT=/home/ben/projects/rpy-quarto-template
 # PROJECT_ROOT=C:\Users\ben\projects\rpy-quarto-template    # Linux
 # PROJECT_ROOT=$HOME/projects/rpy-quarto-template        # macOS
 # PROJECT_ROOT=$USERPROFILE/projects/rpy-quarto-template # Windows
 
-LOG_PATH=%USERPROFILE%\\AppData\\Local\\{PROJECT_NAME}
+LOG_PATH=/var/log/{PROJECT_NAME}
 # LOG_PATH=/var/log/{PROJECT_NAME}    # Linux
 # LOG_PATH=$HOME/Library/Logs/{PROJECT_NAME} # macOS
 # LOG_PATH=%USERPROFILE%\AppData\Local\{PROJECT_NAME}\logs # Windows
