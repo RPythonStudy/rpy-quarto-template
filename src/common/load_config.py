@@ -4,6 +4,7 @@
 기능: 
   - config/deidentification.yml 파일을 읽어와서 병리보고서 관련 설정을 반환
 변경이력:
+  - 2025-11-25: substitute 함수를 호출하여 치환 작업 수행 (BenKorea)
   - 2025-09-29: 최초 구현 (BenKorea)
 """
 
